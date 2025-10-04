@@ -206,6 +206,6 @@ Feel free to contribute by:
 - Adding more real-world examples
 - Enhancing documentation
 
-## 📝 License
+## 📝 Author
 
-This project is open source and available under the MIT License.
+Saran Kumar
